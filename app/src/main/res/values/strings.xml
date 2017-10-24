@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">07-3-AndroidManifest-Gestion Permisos-Ej 1</string>
+    <string name="textoBoton">MI texto</string>
+    <string name="titulo">IMAGEN TOMADA</string>
+</resources>
